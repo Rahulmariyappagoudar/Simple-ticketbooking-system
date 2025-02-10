@@ -32,7 +32,7 @@ Seat 2: Available
 ...
 Seat 10: Available
 
-Enter your choice: 2
-Enter seat number to book (1-10): 3
-Seat 3 has been booked successfully.
+-Enter your choice: 2
+-Enter seat number to book (1-10): 3
+-Seat 3 has been booked successfully.
 
